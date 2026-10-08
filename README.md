@@ -1,5 +1,5 @@
 # 💫 About Me:
-French IT Student. Working on some projects for studies, personnal interest and work (some times).
+French IT Student. Working on some projects for studies, personnal interest and work.
 
 
 ## 🌐 Socials:
