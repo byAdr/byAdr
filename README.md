@@ -2,7 +2,7 @@
 French IT Student. Working on some projects for studies, personnal interest and work.
 
 
-## 🌐 Socials:
+## 🌐 Check my portfolio 👇
 [![portfolio-preview](portfoliopreview.png)](https://portfolio.apereira.dev/) 
 
 # 💻 Tech Stack:
